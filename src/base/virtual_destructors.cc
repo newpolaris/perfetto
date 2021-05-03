@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+#include <stdint.h>
 #include "perfetto/base/task_runner.h"
 
 // This translation unit contains the definitions for the destructor of pure
